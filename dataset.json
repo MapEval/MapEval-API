@@ -1,0 +1,3910 @@
+[
+    {
+        "id": 34,
+        "question": "My office is at Agargaon ICT Tower. One of my colleagues has broken his leg accidentally. I want to take him to an orthopedic hospital near me. Suggest me an orthopedic hospital near ICT tower, Agargaon, Dhaka.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "National Institute of Traumatology and Orthopaedic Rehabilitation (NITOR)",
+                " Mary Orthopedic General Hospital and Diagnosis Center",
+                "Amader Hospital Ltd",
+                "National Institute of Laboratory Medicine & Referral Center (NILMRC)"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 35,
+        "question": "I am staying at SUST now. I have been suffering from fever for 3 days. I want to meet a doctor nearest to campus. Suggest me a doctor near my campus",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "সেবা ডায়াগনষ্টিক সেন্টার",
+                "মোঃ হেলাল উদ্দিন",
+                " Shuvo Madical Hall",
+                "ডাঃ মোঃ ছমির উদ্দিন"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 36,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest mosque where I can go for my prayers?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "জলকরিয়া কেন্দ্রীয় জামে মসজিদ ",
+                "কারমাইকেল কলেজ মসজিদ",
+                "Salbon Jame Mosque",
+                "তালুক হাবু বাইতুস সালাম জামে মসজিদ"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 39,
+        "question": "I’m in Rajshahi and want to do some shopping. What is the best shopping mall in the city where I can find a variety of stores?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Infinity MegaMall",
+                "রাজশাহী সিটি সেন্টার",
+                "Shopnochura Tower",
+                "Theme Omor Plaza"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 53,
+        "question": "I need a haircut and I’m in Natore. Can you recommend a reputable hair salon in the area?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Western Salon",
+                "Orjun salun & parler",
+                "হেয়ার কাটিং",
+                " Evan Rony ER "
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 58,
+        "question": "I am in Sylhet’s Ambarkhana area and I need to catch a bus to Dhaka. Can you guide me to the nearest bus terminal?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Dighirpar Bus Stand",
+                "Shikpur Bus station",
+                "Airport Road Bus Stop",
+                "Sukrobari Bazar Bus Stan"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 75,
+        "question": "I need to catch a bus and I'm near Rajshahi University. Can you tell me where the nearest bus stop is?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Gatelock Bus Terminal-2",
+                "Rajshahi Bus Stand ,amnura",
+                "Rajshahi Bus Terminal ,Vadra.",
+                "Nawabganj Bypass Bus Stand"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 76,
+        "question": "I need to mail a letter and I'm in Mymensingh Town. Can you tell me where I can find the nearest post office?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "পুলিশ লাইন পোস্ট অফিস",
+                "রাঘবপুর মাদ্রাসা ডিজিটাল পোস্ট ই-সেন্টার",
+                "Bangladesh Agricultural University Post Office",
+                "Mymensingh Head Post Office"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 97,
+        "question": "I'm in Feni and need to get my clothes cleaned. Can you tell me where the nearest laundry service is?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sufed laundry",
+                "Auto Clean",
+                "সুনীল লন্ড্রী এন্ড ড্রাই ক্লিনার্স",
+                "BANDBOX"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 98,
+        "question": "I'm in Narayanganj and want to work out. Can you tell me where the nearest fitness center is located?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Nirvana Fitness Center & Swimming Pool",
+                "X-Men Gym",
+                "Life Style Fitness",
+                "Fit 4 Life Gym"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 102,
+        "question": "I'm in Mymensingh and want to watch a movie. Can you tell me where the nearest cinema is?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Kanan Cinema Hall",
+                "Tulshipur Cinema Hall",
+                "Purobi Cinema Hall",
+                "Hol-er Mor"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 103,
+        "question": "I'm in Sylhet and need to withdraw some cash. Can you tell me where the nearest ATM is located?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "United Commercial Bank Limited",
+                "Trust Bank ATM",
+                "ATM Booth IBBL",
+                "Pubali Bank ATM"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 110,
+        "question": "I'm in Sirajganj and need to buy some medicine. Can you tell me where the nearest pharmacy is?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Orin Pharmacy",
+                "Unique Pharma-Model Pharmacy",
+                "Sajeeb Medicine Center",
+                "Gulf Pharmacy"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 117,
+        "question": "I'm in Rangamati and need to take my pet to the vet. Can you tell me where the nearest veterinary clinic is located?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Vet Care Plus",
+                "Vet Care Center",
+                "Vetlab",
+                "Hasan Veterinary Pharmacy"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 118,
+        "question": "I'm in Thakurgaon and want to buy some fresh bread and pastries. Can you tell me where the nearest bakery is located?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sazz's Cake",
+                "Tasty Treat",
+                "Tan'z Bakery",
+                "মুক্তা বেকারী এন্ড সুইটস্ "
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 119,
+        "question": "I'm currently in Uttara, Dhaka, and I'm having tooth pain. Can you suggest a dentist near my location?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Quick Dental Care",
+                "Bangla Dental Care",
+                "Tooth Aid Dental Zone",
+                "Holy Dental Care"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 132,
+        "question": "I'm in Bashundhara, Dhaka and my car is having issues. Can you recommend a reputable car mechanic near me",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "S.R Auto Electronics Engineering Workshop",
+                "Dhaka Auto Vulcanizeing Workshop ঢাকা অটো ভলকানাইজিং ওয়াকসপ",
+                "Johirul Bike Servicing ",
+                "CAR HEAVEN Workshop Vehicle Repair Shop"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 135,
+        "question": "I'm in Comilla and need to see a dentist. Can you recommend a good dental clinic in the area?\"",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Jannat dental care",
+                "Jahid dental",
+                "Hazari Dental Care",
+                "কমার্শিয়াল ষ্টোর"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 138,
+        "question": "\"I'm in Kushtia and want to buy some fresh bread and pastries. Can you suggest a good bakery in the area?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Mariyam cake house",
+                "Pizza and Pastry",
+                "Bonolota Sweets & Bakery",
+                "Shishir Bakery"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 147,
+        "question": "I'm in Rajbari and need to buy some tools for home improvement. Can you recommend a good hardware store in the area?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "মিতু মেশিনারিজ এন্ড সেনেটারি",
+                "Shaba Hardware Store & Electronics",
+                "সওদাগর হার্ডওয়্যার"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 154,
+        "question": "I'm in Habiganj,Sylhet and need to buy a new pair of shoes. Can you suggest a reputable shoe store nearby?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Bata Amin Shoe Store",
+                "আয়ান-সু ষ্টোর।",
+                "Steve Madden",
+                "চরণতল-ChoronTOL"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 157,
+        "question": "I'm in Thakurgaon and need to buy flowers for an event. Can you suggest a good florist in the area?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Aparajita Pushpa Bitaan",
+                "মেঘলা তিথি পুষ্প কুঞ্জ ইভেন্ট ম্যানেজমেন্ট ",
+                "Khaja Flower Shop",
+                "Jeni Mala Badol"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 176,
+        "question": "I'm currently in Vancouver and interested in outdoor activities. What is the nearest park or nature reserve in this area ?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Portal Park",
+                "Robson Square",
+                "Bentall Centre Courtyard",
+                "Rainbow Park"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 186,
+        "question": "I'm in Cairo and want to explore Egyptian artifacts. Which museum nearby is considered the best for this?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Lama Temple",
+                "Great Wall of Badaling",
+                "The National Museum of Egyptian Civilization",
+                "Tiananmen"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 197,
+        "question": "I'm in Seoul and enjoy playing at casinos. Where's the best nearby casino?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " PARADISE Co., Ltd.",
+                "Paradise City",
+                "Paradise City Incheon Casino Poker Room",
+                "WEZBET "
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 217,
+        "question": "I'm in Bangkok and want to visit some tourist attractions. Which nearby attractions are the most renowned?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Devasthan (Brahmin Shrines)",
+                "Mahakan Fort",
+                "Rattanakosin Exhibition Hall",
+                "Roongroj Tour"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 218,
+        "question": "I'm in Lisbon and craving seafood. Which restaurant nearby is considered the best for fresh seafood?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " Fogo e chão ",
+                "Real colherdepau de Lisboa | Lisbon",
+                "combine your business ",
+                "Estoril"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 224,
+        "question": "I am at Duck Lake,what is the nearest mosque to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Hamad Bin Jassim Bin Jaber Bin Mohamed Al Thani Mosque - Mosque, Via, Doha",
+                "The Pearl Mosque - Masjid",
+                "Inside small Grand Hyatt Mosque - 9GGH+Q3H, Doha",
+                "The Golden Masjid - 9G6G+9M2, Doha"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 240,
+        "question": "i am at Washington Square Park, Washington Square, New York, NY 10012, United States.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Staley-Wise Gallery | 100 Crosby Street #305, New York",
+                "The Climate Museum | 105 Wooster Street, New York",
+                " Dr. Bernard Heller Museum | 1 West 4th Street, New York",
+                "Tibet House | 22 West 15th Street, New York"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 241,
+        "question": "My home is located on Indira Road in Dhaka, Bangladesh. Best restaurant in 500m radius from my home.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Piccadilly Restaurant",
+                "Boishakhi Hotel And Restaurant",
+                "Bibiyana Tehari O Biryani Ghar",
+                "Food Fair"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 243,
+        "question": "I live at Indira Road. If I leave home at 8 pm, will I be able to reach sultan's dine and take dinner (which takes approximately 1 hour) before it closes? I will use my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 245,
+        "question": "How much time will it take by car If I go from Indira Road to Sultan's Dine and then to LABAID Specialized Hospital?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "20 mins",
+                "25 mins",
+                "29 mins",
+                "19 mins"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 246,
+        "question": "I live on Indira Road. I need to go to LABAID Specialized hospital. I will stay there for half an hour. But I also need to go to Sultan's Dine. I will have my dinner there, which will take approximately an hour. If I leave home at 8:30 pm, where should I go first? LABAID or Sultan's Dine. I will go by car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sultan's Dine",
+                "LABAID Specialized Hospital"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 255,
+        "question": "I am looking for a restaurant in Dhanmondi named Madchef. Give me the full address.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "House#8/A, Road#4, Royal Palaza (5th Floor), Mirpur Rd, Dhaka 1205, Bangladesh",
+                "House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh",
+                "9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road, Dhaka 1209, Bangladesh",
+                "Dhanmondi ADC Empire Plaza, (1st Floor), Plot 91, Road 12/A, Satmasjid Road, Opposite Pizza Hut, Dhanmondi, Dhaka 1209, Bangladesh"
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 257,
+        "question": "I live in Indira Road. At tomorrow 2 pm I will leave my house. I need to go to Military Museum to visit with friends for 2 hours and Multiplan Center to buy a keyboard (which will take 20 minutes) and Sonali Bank, BUET to receive my check book (which will take 30 minutes). In which order I should visit the places so that I reach there on time and come back home as early as possible. I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Home -> Military Museum -> Multiplan Center -> Sonali Bank -> Home",
+                "Home -> Multiplan Center -> Sonali Bank -> Military Museum -> Home",
+                "Home -> Sonali Bank -> Multiplan Center -> Military Museum -> Home",
+                "Home -> Military Museum -> Sonali Bank -> Multiplan Center -> Home"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 258,
+        "question": "I live in  Indira Road. Tomorrow, I plan to visit the Bangabandhu Military Museum to spend 2 hours with friends, then Multiplan Center to purchase a keyboard (which will take 20 minutes), and Sonali Bank PLC, BUET Branch, to receive my checkbook (which will take 30 minutes). I intend to visit these places in the following order: Multiplan Center first, followed by Sonali Bank, and then the Military Museum. Considering this itinerary, what is the latest possible time I can leave home so that I can still depart from the Military Museum before it closes? I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2:55 PM",
+                "3:00 PM",
+                "3:04 PM",
+                "3:14 PM"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 259,
+        "question": "Today is Sunday. At tomorrow 3 pm I will leave my house. I need to go to Military Museum to visit with friends for 2 hours and Multiplan Center to buy a keyboard (which will take 20 minutes) and Sonali Bank, BUET to receive my check book (which will take 30 minutes). Schedule my day If I visit the places in this order: First Military Museum, then Multiplan Center, then Sonali bank and then come back home. I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Military Museum (3:00 PM) -> Multiplan Center (3:40 PM) -> Sonali Bank (4:30 PM) -> Home (5:20 PM)",
+                "Military Museum (3:35 PM) -> Multiplan Center (3:50 PM) -> Sonali Bank (4:30 PM) -> Home (5:15 PM)",
+                "Military Museum (3:35 PM) -> Multiplan Center (4:20 PM) -> Sonali Bank (5:45 PM) -> Home (8.10 PM)",
+                "Military Museum (3:05 PM) -> Multiplan Center (5:18 PM) -> Sonali Bank (5:45 PM) -> Home (6:31 PM)"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 260,
+        "question": "How long will it take by car to travel from Miami International Airport to Hialeah Hospital and then to Doral Legacy Park?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "20 mins",
+                "38 mins",
+                "48 mins",
+                "27 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 261,
+        "question": "I am at the Hampton Inn & Suites Ft. Lauderdale/Miramar, and I want to go to Memorial Hospital  first, then Flamingo Gardens . How much time will it take to travel by car from my location?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "32 min",
+                "33 min",
+                "31 min",
+                "34 min"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 263,
+        "question": "I am currently at Planetshakers Church Melbourne City Campus. I want to drive to Carrot Tattoo Studio and then to Melbourne Lifestyle Apartments - Docklands Accommodation. How long will this take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "18 mins",
+                "19 mins",
+                "20 mins",
+                "21 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 264,
+        "question": "I am currently at Oakwood Premier Melbourne. I want to drive to Marvel Stadium and then to Melbourne Central. How long will this take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "10 mins",
+                "20 mins",
+                "15 mins",
+                "16 mins"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 267,
+        "question": "Give the fastest route from Indira Road to Chillox Dhanmondi by car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Satmasjid Road",
+                "Via Mirpur Rd",
+                "Via Kazi Nazrul Islam Ave"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 268,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car via mirpur road.After reaching manik mia avenue where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto Road no 16",
+                "Turn left onto Mirpur road",
+                "Turn left onto indira road",
+                "Turn right onto new elephant road"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 269,
+        "question": "Currently it's 4:15 pm. I am at Mabashi Park right now and have started driving to Nakano ZERO. After that, what time will I reach Ochiai Park?\"",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4.30 pm",
+                "4.35 pm",
+                "4.40 pm",
+                "4.45 pm"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 270,
+        "question": "I'm at Mabashi Park and drove to Nakano ZERO, then to Ochiai Park. What's the total distance for the entire journey by car?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5.6 km",
+                "5.4 km",
+                "4.6 km",
+                "4.6 km"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 271,
+        "question": "I'm at Luxembourg Airport right now. I drove to Kockelscheuer Ice Rink by car, took a train to Kallektuffquell, and then drove back to the airport by car. How long did it take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "\n1 hours 19 mins",
+                "\n1 hours 20 mins",
+                "\n1hours 10 mins",
+                "1hours 18 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 274,
+        "question": "My home is in Santragachi. I walked to Unsani High School and returned by car. How long did it take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "52 mins",
+                "40 mins",
+                "45 mins",
+                "57 mins"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 275,
+        "question": "I am at Hotel Saltel. From my current location, I plan to drive myself to Science City first. Then, I'll take a taxi to the Nil Ratan Sircar Medical College and Hospital. After that, I'll drive to the City Centre Salt Lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by car. How much time will this take?\n\n",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "99 mins ",
+                "98 mins",
+                "95 mins",
+                "100 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 276,
+        "question": "I am at  Hotel Saltel. How much time will it take if I go to Science City - Kolkata from my location by car and then to the Nil Ratan Sircar Medical College and Hospital by the same car?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "20 mins",
+                "22 mins",
+                "24 mins",
+                "26 mins"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 277,
+        "question": "I am at Hotel Saltel. How much time will it take if I go to Science City - Kolkata from my location on foot, then to the Nil Ratan Sircar Medical College and Hospital by car, and then return to my current location on foot?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1 hour 4 mins",
+                "2 hour 13 mins",
+                "1 hour 13 mins",
+                "2 hour 14 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 278,
+        "question": "I am at Hotel Saltel. From my current location, I plan to go to Science City first on foot. Then, I'll take a taxi to the Nil Ratan Sircar Medical College and Hospital. After that, I'll take a train to the lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by car. How much time will this take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2 hour 13 mins",
+                "2 hour 14 mins",
+                "1 hour 13 mins",
+                "3 hour 15 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 279,
+        "question": "I am at Hotel Saltel. From my current location, I plan to go to Science City first on foot. Then, I'll take a taxi to the hospital. After that, I'll take a train to the lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by public transport. How much time will this take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3 hour 44 mins",
+                "3 hour 43 mins",
+                "2 hour 44 mins",
+                "2 hour 43 mins"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 280,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to  Kelburn Park, followed by a trip to Victoria University of Wellington, and finally return to my current location. All the travel will be done using my own car. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "11 mins",
+                "10 mins",
+                "12 mins",
+                "9 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 281,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Kelburn Park, then to Victoria University of Wellington, and finally return to my starting point. All the travel will be done on foot. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "30 mins",
+                "32 mins",
+                "28 mins",
+                "38 mins"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 282,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Victoria University of Wellington by bicycle, then walk to Lady Norwood Rose Garden, and finally return to my starting point by taxi. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "24 mins",
+                "34 mins",
+                "44 mins",
+                "14 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 283,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will go to Victoria University of Wellington by bicycle, walk to Lady Norwood Rose Garden, and return to my starting point by train. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "40 mins",
+                "42 mins",
+                "44 mins",
+                "46 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 284,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Victoria University of Wellington, then to Lady Norwood Rose Garden, and finally return to my starting point. All the travel will be done on foot. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "51 mins",
+                "55 mins",
+                "56 mins",
+                "45 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 288,
+        "question": " I am at Rydges Wellington. I will drive to Victoria University of Wellington by car from my current location, then cycle to Kelburn Park, and finally return to my starting point by car. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "10 mins",
+                "16 mins",
+                "26 mins",
+                "17 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 289,
+        "question": "I am at Rydges Wellington. From my location, I will go to my university \"Victoria University of Wellington\"by bicycle and return on foot. How much time will the entire journey take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "32 mins",
+                "33 mins",
+                "35 mins",
+                "36 mins"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 290,
+        "question": "I am driving from K J Somaiya College Of Arts And Commerce to Zynova Shalby Hospital via Mahatma Gandhi Rd. After reaching K. J. Somaiya Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left to stay on Mahatma Gandhi Rd",
+                "Turn left onto Ghatkopar - Mahul Rd",
+                "Turn left onto Karani Ln/Navroji Ln",
+                "Turn right onto Parmanand Rd"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 291,
+        "question": "I am driving from K J Somaiya College Of Arts And Commerce to Zynova Shalby Hospital via Mahatma Gandhi Rd. After reaching Parmanand Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto Karani Ln/Navroji Ln",
+                "Turn right onto Navroji Ln",
+                "Turn left to stay on Mahatma Gandhi Rd",
+                "Turn left onto Ghatkopar - Mahul Rd"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 293,
+        "question": "What's the best walking route from Ramada by Wyndham Islamabad to Bahria University - Islamabad Campus?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " Via Srinagar Highway and 9th Avenue",
+                "Via Khayaban-e-Suhrwardy",
+                "Via Srinagar Hwy and Faisal Ave",
+                " Via Srinagar Hwy"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 294,
+        "question": "I am at Ramada by Wyndham Islamabad. I am going from my current location to Bahria University - Islamabad Campus by car via Srinagar Hwy and Faisal Ave .After reaching 9th Ave, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Keep right to continue on Jinnah Avenue Underpass",
+                "Continue onto Faisal Ave",
+                "Turn right onto Main Margalla Rd",
+                "Slight left toward Jinnah Avenue"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 295,
+        "question": "I am going from Ramada by Wyndham Islamabad to Bahria University - Islamabad Campus by car Via Srinagar Hwy .After reaching Faisal Ave/Islamabad Expy, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Keep right to continue on Jinnah Avenue Underpass",
+                "Turn right onto 9th Ave",
+                "Turn right onto Main Margalla Rd",
+                "Turn left at Bahria University Gate onto Shangrilla Rd"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 296,
+        "question": "I am at Duhail. What's the fastest route from my current location  to Al Khor Family Park & Zoo?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Al Khor Coastal Rd ",
+                "Via Al Shamal Rd",
+                "via Al Khor Coastal Rd and Al Shamal Rd",
+                "via Al Sailiya Rd"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 297,
+        "question": "What's the fastest route from Villa Elsewhere to  D. B. Patil International Airport, Navi Mumbai?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via NH 48 and Uran Rd",
+                "Via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Pune Expy/Mumbai - Satara Hwy/Yashwantrao Chavan Expy ",
+                "Via NH 48"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 299,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching S Airport Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto E Osborn Rd",
+                "Turn left onto High Bridge Trail",
+                "Turn right onto US-460 E",
+                "Turn right onto Plank Rd"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 300,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching E Osborn Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Slight right at Early St",
+                "Head west toward Wedgewood Dr",
+                " Turn right onto S Airport Rd",
+                "Turn right onto High Rock Rd"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 301,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching US-460 E, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto E Osborn Rd",
+                "Turn left onto High Bridge Trail",
+                "Turn right onto High Rock Rd",
+                "Slight right at Early St"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 303,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church Via Jamestown Rd and High Bridge Trail. After reaching Turn right onto S Airport Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto VA-45 N",
+                "Turn right onto High Rock Rd",
+                "Turn right onto Jamestown Rd",
+                "Turn right to stay on Jamestown Rd"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 307,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church Via Jamestown Rd and High Bridge Trail. After reaching  River Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto High Bridge Trail",
+                "Turn left onto Wedgewood Dr",
+                "Turn right onto US-460 E",
+                "Turn right onto Jamestown Rd"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 310,
+        "question": "What’s the fastest walking route from Centre of Germany to Wildkatzendorf Hütscheroda?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via L1042",
+                "Via L1042 and Hainichlandweg",
+                " Via L2104",
+                " Via L2104"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 313,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda via B84. After reaching Hohler Weg/Langensalzaer Str, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Continue onto Schloßstraße",
+                "Continue onto Am Alten Sportpl.",
+                "Continue straight onto L2103",
+                "Continue onto L1042"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 314,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda Via L1016. After reaching Am Anger, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Continue onto Propelstraße",
+                "Continue onto Essener Str.",
+                "Continue onto Schlossallee/Thomas-Müntzer-Straße",
+                "Continue onto L1016"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 315,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda Via B247 and B84. After reaching Mühlhäuser Str, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto B84",
+                " Continue onto Schloßstraße",
+                "Mühlhäuser Str. turns slightly left and becomes L2104",
+                "Take the B84 ramp to A4/Eisenach/Weberstedt/Bad Langensalza"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 318,
+        "question": "I am driving from  D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Garn Al Sabkha St/D59. After reaching Sheikh Zayed Rd/E11, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Take exit 22 toward PJA Port Gate 1/PJA Port Gate 2",
+                "Keep left to stay on Garn Al Sabkha St/D59",
+                "Take the ramp to Al Khail Rd/E44",
+                "Merge onto Sheikh Zayed Rd/E11 via the ramp to Jebel Ali/Abu Dhabi"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 319,
+        "question": "I am walking from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54. After reaching Hessa St/D61 (signs for E611 S/Emirates Rd), where should I go next? ",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Continue onto Al Fay Rd",
+                "Turn right onto street 511",
+                "Turn right onto Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "At the roundabout, take the 3rd exit onto Golf Course Dr"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 320,
+        "question": "I am walking from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Al Asayel St/D72. After reaching Hessa St/D61, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto First Al Khail St/D86",
+                "Merge onto Umm Suqeim St/D63",
+                "Continue onto D57",
+                " At the roundabout, continue straight to stay on 39th St"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 321,
+        "question": "I am at The British Museum. It is currently 6:00 PM on Tuesday. Please suggest the best nearby restaurant to eat now. Price should be moderate.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "The Pizzeria",
+                "Museum Tavern",
+                " The Blue Door Bistro",
+                "Starbucks Coffee "
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 322,
+        "question": "Today is Monday. I have an afternoon free in New York and plan to visit The Metropolitan Museum of Art for 3 hours, followed by a 30-minute coffee break at a nearby cafe, and then spend 1 hour in Central Park (New York, NY, USA). Plan a schedule to ensure I have enough time for everything. I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.02PM - 6.32PM) Have coffee at The Great Hall Balcony Cafe -> (6.38PM - 7.38PM) Spend time in Central Park.",
+                "(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.08PM - 6.38PM) Have coffee at  Central Park cafe -> (6.42PM - 7.42PM) Spend time in Central Park.",
+                "(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.05PM - 6.35PM) Have coffee at Starbucks  -> (6.39PM - 7.39PM) Spend time in Central Park.",
+                "(2.00PM - 5.00PM) Visit The Metropolitan Museum of Art -> (5.09PM - 5.39PM) Have coffee at Matto Espresso -> (5.47PM - 6.47PM) Spend time in Central Park."
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 323,
+        "question": "In Tokyo, I want to visit the Tokyo National Museum for 2 hours, have lunch at a restaurant in Asakusa named \"BLACK PAPA\" for 1 hour, and then spend 1 hour at Senso-ji Temple. If I drive, what time should I start my day to finish by 3 PM?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "11.00 AM",
+                "10.44 AM",
+                "11.44 AM",
+                "11.11 AM"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 324,
+        "question": "I have a morning to explore Istanbul and want to visit the Hagia Sophia for 1.5 hours, then spend 1 hour at the Blue Mosque, and finish with a 45-minute visit to the Grand Bazaar. When should I visit Hagia Sophia so that I can visit Grand Bazaar at 1.00 pm? I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "10.13",
+                "10.23",
+                "10.33",
+                "11.23"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 325,
+        "question": "In Bangkok, I want to visit the Grand Palace for 2 hours, followed by a 1.5-hour visit to Wat Arun, and finally spend 1 hour at Chatuchak Weekend Market. If I start my journey at 1.00 pm by car, when will I finish my journey?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "6.11 pm",
+                "5.11 pm",
+                "1.55 pm",
+                "6.41 pm"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 326,
+        "question": "In Barcelona, I want to visit the Sagrada Família for 2 hours, then spend 1 hour at Park Güell, and finish with a 1.5-hour visit to La Rambla. In which order I should visit the places by car to minimize the travel time?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sagrada Família -> Park Güell -> La Rambla",
+                "Park Güell -> La Rambla -> Sagrada Família",
+                "La Rambla -> Sagrada Família -> Park Güell",
+                " Park Güell -> Sagrada Família -> La Rambla"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 327,
+        "question": "In Rome, I plan to visit the Colosseum for 2 hours in the morning, spend 1.5 hours at the Roman Forum, and finish with a 1-hour visit to the Pantheon. What time should I start to finish by 2:00 PM or earlier?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "8.39 am",
+                "11.08 am",
+                "8.39 pm",
+                "10.09 am"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 328,
+        "question": "I have a full day to explore Sydney and want to visit the Sydney Opera House for a 1-hour tour, spend 2 hours at Bondi Beach, and end with a 1-hour walk in the Royal Botanic Garden Sydney. If I start my day at 9 AM, what is the best itinerary to follow using public transport to finish my journey as early as possible?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sydney Opera House -> Bondi Beach -> Royal Botanic Garden Sydney",
+                "Bondi Beach -> Sydney Opera House -> Royal Botanic Garden Sydney",
+                "Royal Botanic Garden Sydney -> Bondi Beach -> Sydney Opera House",
+                "Bondi Beach -> Royal Botanic Garden Sydney -> Sydney Opera House"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 329,
+        "question": "I am planning a visit to Paris and want to maximize my time. If I spend 2 hours at the Louvre Museum in the morning, 1 hour at the Notre-Dame Cathedral around noon, and 1 hour at the Eiffel Tower in the afternoon, how much time should I allocate for travel between these places using public transport?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "32 mins",
+                "20 mins",
+                "12 mins",
+                "30 mins"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 330,
+        "question": "I plan to spend a day in London visiting The British Museum for 2 hours, then take a 1.5-hour tour of the Tower of London, and finally enjoy a 45-minute ride on the lastminute.com London Eye. How should I schedule my day to ensure I can fit everything in, considering public transport times",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "(2.00PM - 4.00PM) Visit The British Museum -> Reach Tower of London at 4.13PM -> (4.13 - 5.43PM) Visit the Tower of London -> Reach lastminute.com London Eye at 6.15PM -> (6.15PM - 7.00PM) Enjoy ride on the lastminute.com London Eye.",
+                "(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.13PM -> (3.13 - 4.43PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.11PM -> (5.11PM - 5.56PM) Enjoy ride on the lastminute.com London Eye.",
+                "(2.00PM - 4.00PM) Visit The British Museum -> Reach Tower of London at 4.33PM -> (4.33 - 6.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 6.31PM -> (6.31PM - 7.16PM) Enjoy ride on the lastminute.com London Eye.",
+                "(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.33PM -> (3.33 - 5.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.31PM -> (5.31PM - 6.16PM) Enjoy ride on the lastminute.com London Eye."
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 332,
+        "question": "I am driving to Brassica in Bexley Via E Main St. After reaching E Whittier St, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto E Whittier St",
+                "Continue straight to stay on E Main St",
+                " Turn left onto Lockbourne Rd",
+                "Turn left onto Parsons Ave"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 333,
+        "question": "I am driving to Brassica in Bexley Via E Main St. After reaching Parsons Ave, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn right onto E Main St",
+                " Turn left onto College Ave",
+                "Turn right onto US-33 E/E Livingston Ave",
+                "Merge onto Alum Creek Dr"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 334,
+        "question": "I am driving to Brassica in Bexley Via E Whittier St. After reaching Alum Creek Dr, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto College Ave",
+                "Turn right onto E Main St",
+                "Turn right onto E Whittier St",
+                "Turn right onto US-33 E/E Livingston Ave"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 335,
+        "question": "I am driving to Brassica in Bexley Via E Whittier St. After reaching Lockbourne Rd, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto College Ave",
+                " Take exit 103A toward Main St/Bexley",
+                "Head north on S High St toward Shumacher Alley",
+                " US-33 E/E Livingston Ave"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 336,
+        "question": "I am walking to Brassica in Bexley from South Wind Motel, Via Parsons Ave and E Main St. After reaching E Main St, where should I go next?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Turn left onto College Ave",
+                "Turn right onto E Whittier St",
+                "Turn left onto S Ohio Ave",
+                "Turn right onto E Whittier St"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 347,
+        "question": "I am at Louvre Museum. What is the nearest restaurant?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Bistrot Benoit",
+                "Starbucks Louvre",
+                " Le Comptoir du Louvre",
+                "Comptoir Denon & Richelieu"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 356,
+        "question": "I’m staying at the Sheraton Mexico City Maria Isabel Hotel. Can you tell me where the nearest café is?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Amorino",
+                " Boudega",
+                "Tortas, sándwiches y bagels de la calle",
+                " Pasión Café"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 357,
+        "question": "I'm at Khansa Market and feeling really hungry. Where can I get something to eat quickly?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Shawarma Juha",
+                "Souq Al-Lail Al-Qadim Restaurant",
+                "Kfteraa Cham Shawarma Arabic on coal ",
+                "Torch Restaurant"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 359,
+        "question": "I'm at Camping Ettelbruck. Which university is closest to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Lycée Ermesinde Mersch (LEM) ",
+                "Université du Luxembourg",
+                "Huberty Martine",
+                "Seck Pierre"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 360,
+        "question": "I'm at Camping Ettelbruck. Which Tourist Attraction is closest to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Wasserfall ",
+                "Panorama view over Michelau",
+                "General Patton Museum",
+                "Springbrunnen "
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 361,
+        "question": "I am at JA The Resort Golf Course.What is the nearest hospital to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "AL SHIFA INTERNATIONAL CLINIC ",
+                "Al Shifa International Clinicl LLC-Branch",
+                "NMC Medical Centre JAFZA",
+                " Emirates Field Hospital Entrance (SEHA) "
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 362,
+        "question": "i am at JA The Resort Golf Course. What is the nearest Mosque to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " مسجد النور ",
+                "MASJID AL RAHMAN JEBEL ALI",
+                "DP World Terminal 3 Mosque",
+                "Emirates Station Mosque"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 363,
+        "question": "I am at JA The Resort Golf Course. What is the nearest parking to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Gurjant wali parking ",
+                "Al Hesah St Parking",
+                "Jebel parking",
+                "Guest Parking Area"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 365,
+        "question": "I am at Zayed International Airport. What is the nearest restaurant to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Shawarmanji",
+                "Crepe Delicious ",
+                "Capri Pizza - Masdar Park",
+                "Grab & Fly"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 366,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest mosque where I can go for my prayers?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "দক্ষিণ হোসেনপুর জামে মসজিদ",
+                " Begum Rokeya University Mosque ",
+                ". Central Jame Mosque, BRUR",
+                "Alhaj Nagar Jame Masjid"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 367,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest hindu_temple where I can go for my prayers?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Shiv Mandir",
+                "ISKCON Tajhat Temple - শ্রী শ্রী রাধাগোপীনাথ জিউ মন্দির ",
+                " Dimla Kali Temple",
+                "Shree Shree Maa Kali Temple"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 368,
+        "question": "I am at The University of Tokyo  What is the nearest gas_station to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "ENEOS Yushima Service Station",
+                "ENEOS Taito Chuo Service Station",
+                "Shell ",
+                "Eneos Akihabara Service Station"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 369,
+        "question": "I am at The University of Tokyo What is the nearest hospital to me?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "東大病院面会受付",
+                "東京大学医学部附属病院 管理・研究棟",
+                "Hosobe Clinics ",
+                "Tanaka Acupuncture Orthopedic Clinic"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 370,
+        "question": "I'm currently at the Golden Apple Boutique Hotel. Could you help me find the nearest zoo?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Marble Palace Zoo",
+                " Alipur zoo",
+                "Alipore Zoo Aquarium",
+                " Bird Walk "
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 371,
+        "question": "I'm currently at the Golden Apple Boutique Hotel. Could you help me find the nearest Stadium ?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " EAST BENGAL STADIUM",
+                " MOHUN BAGAN STADIUM",
+                "Netaji Indoor Stadium",
+                "Howrah Indoor Stadium "
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 372,
+        "question": "I'm staying at the Golden Apple Boutique Hotel. Could you help me locate the nearest tourist attraction?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                " Lenin's Statue ",
+                "Smaranika Tram Museum",
+                "Indian Museum",
+                "St. Thomas Church (C.N.I.)"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 373,
+        "question": "I'm at Base Hospital Delhi Cantt. Could you help me locate the nearest Gym?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Outdoor Gym",
+                "GAME OF FITNESS",
+                "The Workout Zone ",
+                "Exclusive fit gym "
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 378,
+        "question": "Does Daikoku-ya serve Dinner?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 379,
+        "question": "Does Chakoru serves lunch?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 380,
+        "question": "Is BLACK PAPA reservable?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 382,
+        "question": "What's the rating of The Blue Door Bistro?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3.6",
+                "3.9",
+                "4.1",
+                "4.4"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 383,
+        "question": "What's the price level of Museum Tavern?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Inexpensive",
+                "Moderate",
+                "Expensive",
+                "Very Expensive"
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 384,
+        "question": "Is The Pizzeria open at 3:00 PM on Monday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 387,
+        "question": "Is the Grand Bazaar open at 6:00 PM Tuesday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 388,
+        "question": "Is The Blue Door Bistro reservable?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 389,
+        "question": "What's the price level of the Museum Tavern?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Inexpensive",
+                "Moderate",
+                "Expensive",
+                "Very expensive"
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 391,
+        "question": "Is the entrance of Nusr-Et Steakhouse wheelchair accessible?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 393,
+        "question": "Can I visit The Great Pyramid of Giza at 5:00 PM Saturday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 395,
+        "question": "How many users rated Eleven Madison Park?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2804",
+                "10010",
+                "11",
+                "1200"
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 396,
+        "question": "Is Asador Etxebarri open on Sunday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 397,
+        "question": "Is Asador Etxebarri open on Monday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 398,
+        "question": "Does Asador Etxebarri serve dinner?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 412,
+        "question": "Is takeout available at the Starbucks on Calle de la Princesa, 40, Centro?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 413,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with over 2000 user ratings.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "New York Fries",
+                "Wimpy",
+                "The GrillShack"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 414,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.8 rating.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Wimpy",
+                "New York Fries",
+                "The GrillShack"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 415,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.7 rating and over 1000 user ratings.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Wimpy ",
+                "New York Fries",
+                "Noon & Kabab ",
+                "The GrillShack"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 416,
+        "question": "I am at Dubai Mall. Suggest a nearby moderate restaurant with at least 4.6 rating.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Nando's Dubai Mall",
+                "Bikanervala Dubai Mall",
+                "The GrillShack"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 417,
+        "question": "I am at Dubai Mall. Suggest a nearby moderately priced restaurant with a rating of at least 4.5 that is open at 9:00 AM on Thursday.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Nando's Dubai Mall",
+                "Bikanervala Dubai Mall",
+                "The GrillShack"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 418,
+        "question": "I am at Dubai Mall. Suggest a nearby moderate restaurant with over 2100 user ratings.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Nando's Dubai Mall",
+                "Bikanervala Dubai Mall",
+                "The GrillShack"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 419,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.5 rating and stays open at 9:15 AM on Tuesday.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Wimpy",
+                "New York Fries",
+                "Neat Burger"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 421,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car. Which road should I take after Manik Mia Avenue on the Satmasjid Road route to Chillox Dhanmondi?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Kazi Nazrul Islam Ave",
+                "Road No 16",
+                "Mirpur Rd",
+                "New Elephant Rd"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 422,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car. On the Mirpur Rd route, what is the landmark I will pass by after turning left onto Mirpur Rd?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Agrani Bank PLC",
+                "BRAC Bank Limited | ATM Booth",
+                "Green Galleria",
+                "COTTO Sanitary Ware Display Center"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 426,
+        "question": "I want to visit Central Park and grab coffee at Petrie Court Café beforehand. If I leave Central Park at 9:00 AM on Sunday, what time can I visit Petrie Court Café?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "11:00 AM",
+                "10:30 AM",
+                "12:00 PM",
+                "10:00 AM"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 427,
+        "question": "If I’m walking from The Great Hall Balcony Cafe to Central Park, how much time should I allocate for the walk?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3 minutes",
+                "5 minutes",
+                "6 minutes",
+                "10 minutes"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 428,
+        "question": "On a Monday afternoon, I want to spend 2 hours at The Metropolitan Museum of Art, followed by a coffee break at Starbucks and a 1-hour walk in Central Park. How long is the walk from Starbucks to Central Park?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2 minutes",
+                "4 minutes",
+                "6 minutes",
+                "8 minutes"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 429,
+        "question": "If I visit The Metropolitan Museum of Art on Wednesday, which nearby cafes would be closed?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Starbucks and Matto Espresso",
+                "American Wing Cafe and The Great Hall Balcony Cafe",
+                "Petrie Court Café and Central Park cafe",
+                "All cafes are open on Wednesday"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 430,
+        "question": "Which of the following locations is closest to Bondi Beach by public transport in terms of travel time?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Sydney Opera House",
+                "Royal Botanic Garden Sydney",
+                "",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 432,
+        "question": "Which route by foot has the longest distance from Centre of Germany to Wildkatzendorf Hütscheroda?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via L2104",
+                "Via L1042",
+                "Via L1042 and Hainichlandweg",
+                ""
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 433,
+        "question": "If I am traveling by car from Centre of Germany to Wildkatzendorf Hütscheroda and prefer to minimize the number of roundabouts, which route should I take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via B84",
+                "Via L1016",
+                "Via B247 and B84",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 434,
+        "question": "I want to walk from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali. Which walking route involves taking the pedestrian overpass?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Hessa St/D61",
+                "Via Al Asayel St/D72",
+                "Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "Via Garn Al Sabkha St/D59"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 435,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital involves taking stairs multiple times?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "Via Hessa St/D61",
+                "Via Al Asayel St/D72",
+                "Via Garn Al Sabkha St/D59"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 436,
+        "question": "I want to walk from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali. Which route passes through the largest number of roundabouts?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "Via Al Asayel St/D72",
+                "Via Hessa St/D61",
+                "None of the above"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 437,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital requires taking a ramp onto Umm Suqeim St/D63?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "Via Hessa St/D61",
+                "Via Al Asayel St/D72",
+                "Via D57"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 438,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital goes through Al Khayay St‎?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+                "Via Al Asayel St/D72",
+                "Via Hessa St/D61",
+                "None of the above"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 439,
+        "question": "Which of the following restaurants is located on Level 2 of the Dubai Mall food court?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Nando's Dubai Mall",
+                "Bikanervala Dubai Mall",
+                "McDonald's",
+                "The GrillShack"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 440,
+        "question": "Which nearby restaurant of Dubai Mall has the highest rating?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "The GrillShack",
+                "Nando's Dubai Mall",
+                "Bikanervala Dubai Mall"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 441,
+        "question": "Which restaurant near Dubai Mall has the fewest total user ratings?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "McDonald's",
+                "Nando's Dubai Mall",
+                "The GrillShack",
+                "Bikanervala Dubai Mall"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 442,
+        "question": "If I drive via E Main St from South Wind Motel to Brassica in Bexley, which of the following landmarks will I pass by?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Taco Bell",
+                "Dollar General",
+                "Shumacher Alley",
+                "Alum Creek Dr"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 443,
+        "question": "On the driving route from Hassan II Mosque to Koutoubia via A3, how many roundabouts I will encounter in total?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 444,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. At the first roundabout on Bd Moulay Youssef, which exit should I take to stay on Bd Moulay Youssef?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1st exit",
+                "2nd exit",
+                "3rd exit",
+                "4th exit"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 445,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. Before turning left onto Pl. Al Mourabitine/N8, how many roundabouts I will pass through on Bd 11 Janvier/N8/N9?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 446,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. Which exit will I take at the roundabout on Bd Oued Issil?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1st exit",
+                "2nd exit",
+                "3rd exit",
+                "4th exit"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 448,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have ratings at least 4.5?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4",
+                "6",
+                "7",
+                "5"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 449,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have at least 500 total user ratings?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 450,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have at least 4.5 ratings and 500 total user ratings?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 451,
+        "question": "I am at St. Lawrence Market. Which of the nearby restaurants have ratings at least 4.5?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Seafront Fish Market, Buster's Sea Cove - St. Lawrence Market, Churrasco Of The St Lawrence",
+                "Yianni's Kitchen, Churrasco Of The St Lawrence, Market Street Catch, Uno Mustachio",
+                "Paddington's Pump, Quik Sushi, Big Pita, A&W Canada",
+                "Yianni's Kitchen, Bar St. Lo, Big Pita, Manotas Organics, Spanish & Latin Foods, Crepe It Up"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 452,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants are open on Monday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 453,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants are open at 8:00 PM on Tuesday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 454,
+        "question": "I am at St. Lawrence Market. Which of the nearby restaurants have at least 500 total user ratings?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Bindia Indian Bistro, Paddington's Pump, Pizza Pizza, A&W Canada, Uno Mustachio",
+                "Big Pita, European Delight, Yianni's Kitchen,  Market Street Catch, Bar St. Lo",
+                "Buster's Sea Cove - St. Lawrence Market, Churrasco Of The St Lawrence, Uno Mustachio, Crepe It Up",
+                "Buster's Sea Cove - St. Lawrence Market, Big Pita, Bindia Indian Bistro, Market Street Catch, Paddington's Pump"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 455,
+        "question": "I am at Parliament Hill. How many  nearby restaurants are closed on Sunday?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 456,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights via Autop. Costanera Nte. How many times do I need to merge onto a toll road?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "0"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 457,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights Via Av. Pdte. Kennedy and Autop. Costanera Nte. How many times do I need to take a left turn before reaching Av. Matucana?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 458,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights via Autop. Costanera Nte. How many exits I need to take to reach the destination?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 459,
+        "question": "I will visit St. Lawrence Market on Monday. List the nearby restaurants that I will find open?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Market Street Catch, Paddington's Pump, Crepe It Up,  Quik Sushi",
+                "Quik Sushi, Bindia Indian Bistro, A&W Canada, Dnister Ukrainian Store",
+                "A&W Canada, European Delight, Big Pita, Bar St. Lo, Manotas Organics, Spanish & Latin Foods",
+                "Market Street Catch, A&W Canada, Quik Sushi, Big Pita, Pizza Pizza"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 460,
+        "question": "I am at St. Lawrence Market. List the nearby moderately priced restaurant with at least 4.1 rating.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Uno Mustachio, European Delight",
+                "Churrasco Of The St Lawrence, Yianni's Kitchen",
+                "Market Street Catch, Buster's Sea Cove - St. Lawrence Market",
+                "European Delight, Big Pita"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 461,
+        "question": "List the nearby ATMs of Toronto Zoo that are open 24 hours.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "RBC Royal Bank ATM, TD Canada Trust Branch and ATM, Localcoin Bitcoin ATM - Happy Mart",
+                "CIBC ATM, Meridian Credit Union ATM, President's Choice Financial Pavilion and ATM",
+                "TD Canada Trust ATM, Scotiabank, TD Canada Trust ATM, CoinFlip Bitcoin ATM",
+                "RBC Royal Bank ATM, CIBC ATM, TD Canada Trust ATM, Shell"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 462,
+        "question": "I am at Toronto Zoo. Today is Sunday and it's currently 8:30 PM. How many nearby ATMs are open now?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 463,
+        "question": "If I visit the Notre-Dame Basilica for 1 hour in the morning, spend 1.5 hours at the Montreal Museum of Fine Arts around noon, and 1 hour at Mount Royal Park in the afternoon, how much time should I allocate for traveling between these locations using public transport?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "42 mins",
+                "46 mins",
+                "50 mins",
+                "52 mins"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 464,
+        "question": "I am at The Rimrock Resort Hotel. If I want to visit Banff National Park, Lake Louise, and Moraine Lake in one day, spending 3 hours at each location, in which order I should visit this places to minimize travel time by car?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "The Rimrock Resort Hotel -> Moraine Lake -> Banff National Park -> Lake Louise",
+                "The Rimrock Resort Hotel -> Lake Louise -> Moraine Lake -> Banff National Park",
+                "The Rimrock Resort Hotel -> Lake Louise -> Banff National Park -> Moraine Lake",
+                "The Rimrock Resort Hotel -> Banff National Park -> Lake Louise -> Moraine Lake"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 465,
+        "question": "I am at The Rimrock Resort Hotel. If I spend 3 hours at Lake Louise, and 3 hours at Moraine Lake, starting at 9:00 AM, what time will I finish at Moraine Lake? I will travel by my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3:36 PM",
+                "2:06 PM",
+                "3:06 PM",
+                "4:06 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 466,
+        "question": "If I arrive at Banff at 9:00 AM and spend 2 hours exploring the town, followed by a drive to Lake Louise, what's the maximum time I can spend at Lake Louise before needing to leave at 3:00 PM for Moraine Lake to catch a sunset at 6:00 PM?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2 hours 12 minutes",
+                "3 hours 2 minutes",
+                "3 hours 12 minutes",
+                "3 hours 22 minutes"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 467,
+        "question": "I am spending a day in Medellín and staying at The Charlee Hotel. I will leave my hotel at 9:00 AM and plan to visit three key attractions: the Plaza Botero (2 hours),  Lleras Park (1.5 hours), and the Museum of Antioquia (1 hours). Schedule my day if I plan to visit these place in this order: First Lleras Park, then Plaza Botero, then Museum of Antioquia and finally come back to hotel. I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Leave hotel at 9:00 AM -> Visit Lleras Park (9:20 AM - 10:42 AM) -> Visit Plaza Botero (11:50 AM - 12:40 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:10 PM",
+                "Leave hotel at 9:00 AM -> Visit Lleras Park (10:00 AM - 11:32 AM) -> Visit Plaza Botero (12:00 PM - 1:00 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 3:00 PM",
+                "Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (11:15 AM - 1:15 PM) -> Visit Museum of Antioquia (1:16 PM - 2:16 PM) -> Come back to Hotel at 2:49 PM",
+                "Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (10:59 AM - 12:59 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:33 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 468,
+        "question": "Tomorrow, I plan to visit the Royal Botanic Garden Sydney to spend 2 hours with friends, The Rocks (for a quick shopping stop, which will take 30 minutes), and Bondi Beach (to enjoy the beach and relax, which will take 1 hour). I intend to visit these places in the following order: The Rocks first, followed by Bondi Beach, and then the Royal Botanic Garden Sydney. My home is located in Surry Hills, Sydney NSW 2010, Australia. Considering this itinerary, what is the latest possible time I can leave home to still depart from the Royal Botanic Garden Sydney before it closes? I will use my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2:23 PM",
+                "2:37 PM",
+                "1:23 PM",
+                "1:37 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 469,
+        "question": "I plan to start my day in Amsterdam at 9:00 AM by visiting the Van Gogh Museum for 2 hours. Afterward, I plan to have lunch at Café Loetje for 1 hour and then take a canal cruise that departs at 2:00 PM, lasting 1 hour and 30 minutes. After the cruise, I want to visit the Anne Frank House, which takes 45 minutes, before heading back to my hotel, Hotel Estheréa, by 6:00 PM. What’s the latest time I can leave the Anne Frank House to ensure I’m back at my hotel by 6:00 PM? I will travel by my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5:05PM",
+                "5:35 PM",
+                "5:30 PM",
+                "5:55 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 470,
+        "question": "I arrived in Singapore at 10:00 AM and want to spend my afternoon exploring three popular spots: Gardens by the Bay (1.5 hours), then Marina Bay Sands (1 hour), and finally Sentosa Island. I need to catch a flight departing from Changi Airport. I need to be there at 8:00 PM. What’s the latest time I can leave Sentosa Island to make my flight? I will travel by car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "7:23 PM",
+                "7:18 PM",
+                "7:28 PM",
+                "7:38 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 471,
+        "question": "I have a tight schedule in Rome. I plan to visit the Colosseum at 10:00 AM for 1.5 hours. Afterward, I’ll head to the Trevi Fountain, where I’ll spend 45 minutes. I have a guided tour of the Vatican Museum scheduled for 3:00 PM, and it will last 2 hours. How much free time do I have for lunch before heading to the Vatican Museum? I will travel by public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2 hour 28 minutes",
+                "1 hour 18 minutes",
+                "2 hour 18 minutes",
+                "1 hour 58 minutes"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 472,
+        "question": "I plan to visit the Table Mountain Aerial Cableway at 12:00 PM and spend 2 hours there. After that, I want to visit Kirstenbosch National Botanical Garden and spend at least 1.5 hours there. If I want to spend 1 hour at The Two Oceans Aquarium, what is the latest time I should leave Kirstenbosch National Botanical Garden to ensure I have enough time to visit the Two Oceans Aquarium before it closes? I will use my car to travel.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "4:24 PM",
+                "3:53 PM",
+                "4:16 PM",
+                "4:44 PM"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 473,
+        "question": "I plan to visit the Museo Nacional de Bellas Artes at 11:00 AM and spend 2 hours there. After that, I want to have lunch at a nearby café \"Café La Biela\" for 1 hour and then visit the Cementerio de la Recoleta. If I want to spend 1.5 hours exploring the cemetery, what is the latest time I should leave the café to ensure I have enough time to visit the Cementerio de la Recoleta before it closes? I will walk from one place to other.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3:28 PM",
+                "2:02 PM",
+                "4:02 PM",
+                "4:28 PM"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 474,
+        "question": "I plan to visit the Christ the Redeemer at 12:00 PM and spend 2 hours there. Afterward, I want to visit the Escadaria Selarón for 1 hour. If I want to spend 1.5 hours at Museu do Amanhã, what is the latest time I should leave the Escadaria Selarón to ensure I have enough time to visit Museu do Amanhã before it closes?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3:25 PM",
+                "4:14 PM",
+                "4:16 PM",
+                "4:44 PM"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 475,
+        "question": "I am currently staying at The Bowery House in New York. I want to visit the Statue of Liberty for 1.5 hours, Central Park for 2.5 hours, and the Empire State Building for 1 hour. I have 6 hours available. I will leave my hostel at 7 am. What's the maximum number of places I can visit? I will public transport to travel.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "None",
+                "One",
+                "Two",
+                "Three"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 476,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. How many places can I visit? I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 477,
+        "question": "I am currently staying at Che Lagarto Hostel in Rio de Janeiro. I want to visit Christ the Redeemer for 2 hours, Ipanema Beach for 1.5 hours, Copacabana Beach for 1.5 hours, and the  Escadaria Selarón for 1 hour. I have 6 hours available. I will leave my hostel at 7 am. What’s the maximum number of places I can visit using my bicycle?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 478,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Schedule my day to visit the maximum possible places. I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Leave Hostal El Grial at 8 am. -> Visit Mercado Central de San Pedro (8:19 am - 9:19 am) -> Visit Qorikancha (9:35 am - 11:05 am) -> Visit Cusco Cathedral (11:15 am - 12:45 pm) -> Visit Saqsaywaman (12:59 pm - 2:29 pm)",
+                "Leave Hostal El Grial at 8 am. -> Visit Cusco Cathedral (8:07 am - 9:37 am) -> Visit Qorikancha (9:46 am - 10:46 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 pm) -> Visit Saqsaywaman (12:29 pm - 1:59 pm)",
+                "Leave Hostal El Grial at 8 am. -> Visit Saqsaywaman  (8:07 am - 9:47 am) -> Visit Qorikancha (9:56 am - 10:56 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 am) -> Visit Cusco Cathedral (12:29 pm - 1:59 pm)",
+                "Leave Hostal El Grial at 8 am. -> Visit Qorikancha  (8:07 am - 9:37 am) -> Visit Cusco Cathedral (9:46 am - 10:46 am) -> Visit Saqsaywaman (11:04 am - 12:04 am) -> Visit  Mercado Central de San Pedro(12:29 pm - 1:59 pm)"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 479,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will drive my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (35 mins)",
+                "Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman (37 mins)",
+                "Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral (48 mins)",
+                "Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman (33 mins)"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 480,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will drive my car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha",
+                "Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman",
+                "Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral",
+                "Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 481,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman",
+                "Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral",
+                "Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman",
+                "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 482,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman (37 mins)",
+                "Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral (48 mins)",
+                "Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman (52 mins)",
+                "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (49 mins)"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 483,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 5 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 2
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 484,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 7 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 485,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 5 hours available. I will leave my hostel at 9 am. Can I visit the places in this order:  Bondi Beach ->  Royal Botanic Garden -> Sydney Opera House ->  Sydney Tower ? I will use public transport.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Yes",
+                "No",
+                "",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 486,
+        "question": "I am currently staying at Atlantis, The Palm in Dubai. I want to visit the Burj Khalifa for 1.5 hours, the Dubai Mall for 2 hours, the Palm Jumeirah Boardwalk for 1.5 hours, and the Museum of the Future for 1 hour. I have 7 hours available. I will leave my hotel at 10 am. How many places can I visit? I will travel by car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "None",
+                "Two",
+                "Three",
+                "All"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 487,
+        "question": "I am currently staying at King Kong Hostel in Rotterdam. I want to visit the Kijk-Kubus Museum-house for 1 hour, the Erasmusbrug for 1 hour, the Museum Boijmans Van Beuningen for 1.5 hours, and the Market Hall for 1.5 hours. I have 6 hours available. I will leave my hostel at 9 am. What’s the maximum number of places I can visit? I will between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "None",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 488,
+        "question": "I am currently staying at Stayokay Hostel in Amsterdam. I want to visit the Rijksmuseum for 2 hours, Vondelpark for 1 hour, the Anne Frank House for 1.5 hours, and the Van Gogh Museum for 1.5 hours. I have 6.5 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use my bicycle.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 489,
+        "question": "I am currently staying at St Christopher's Inn in Barcelona. I want to visit the Sagrada Família for 2 hours, Park Güell for 1.5 hours, Casa Batlló for 1 hour, and La Rambla for 1.5 hours. I have 5 hours available. I will leave my hostel at 10 am. What’s the maximum number of places I can visit? I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 490,
+        "question": "I am currently staying at Khaosan Tokyo Origami in Asakusa, Tokyo. I want to visit the Sensō-ji Temple for 1 hour, Shibuya Crossing for 1.5 hours, Ueno Park for 2 hours, and the Tokyo Skytree for 1.5 hours. I have 5.5 hours available. I will leave my hostel at 7 am. How many places can I visit? I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 1
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 491,
+        "question": "I am currently staying at Khaosan Tokyo Origami in Asakusa, Tokyo. I want to visit the Sensō-ji Temple for 1 hour, Shibuya Crossing for 1.5 hours, Ueno Park for 2 hours, and the Tokyo Skytree for 1.5 hours. I have 3.5 hours available. I will leave my hostel at 7 am. How many places can I visit? I will walk between places.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 0
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 492,
+        "question": "I am currently staying at Selina Porto in Porto, Portugal. I want to visit the Dom Luís I Bridge for 1 hour, Livraria Lello for 1.5 hours, Porto Cathedral for 1 hour, and the Bolsa Palace for 2 hours. I have 6.5 hours available. I will leave my hostel at 9 am. What’s the maximum number of places I can visit? I will travel by car.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correct": 3
+        },
+        "classification": "trip"
+    },
+    {
+        "id": 493,
+        "question": "Find a good coffee shop on the left side of my driving path from my home near Petaling Jaya to my office in Kuala Lumpur.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Dareia Coffee",
+                "Gwaku Coffee",
+                "The Lemon Tree",
+                "Coffeeloca"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 494,
+        "question": "I am currently at Dublin Castle. Find a nearby atm which is at north of the castle.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "AIB ATM Dame Street",
+                "AIB ATM",
+                "Spar ATM",
+                "ATM inside Temple Bar"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 495,
+        "question": "What is the best time to go to Gamla Stan from Södermalm? I want to avoid traffic.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5:00 AM - 7:00 AM",
+                "8:00 PM - 11:00 PM",
+                "2:00 PM - 3:00 PM",
+                "10:00 AM - 11:00 AM"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 496,
+        "question": "Where is the first gas station on my way from Grünerløkka to Karl Johans gate?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Esso",
+                "SHELL SINSEN",
+                "YX Truck Filipstad",
+                "Uno-X"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 497,
+        "question": "Is there any publicly accessible lake around Nørreport where people can arrange a program?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Udekørende fysioterapi v/Elie Poulsen",
+                "Haveskriver",
+                "Christian Liljedahl",
+                "Madsen Jørgen Lund"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 498,
+        "question": "I am going from Menteng to Kebayoran Baru by car. Find a good coffee shop based on rating on the left side of the road.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Riau pekanbaru",
+                "BERASA COFFEE",
+                "Mega Cikini Coffee Shop",
+                "Warung Kopi 72"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 499,
+        "question": "How many food stalls are there north of the overbridge at Hakaniemi?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Petitra Oy",
+                "Mäkinen Mika Petteri",
+                "Espresso House Hakaniemi",
+                "Hakaniemen Hallin Kukka"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 500,
+        "question": "Find a good path for a morning walk that avoids busy areas from Kifisia.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Mark. Mpotsari ",
+                "Via Leof. Kifisias",
+                "Via Sokratous",
+                ""
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 501,
+        "question": "Which road should I follow from Wola to Mokotów to avoid flooded roads in heavy rains?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via al. Prymasa Tysiąclecia",
+                "Via DK79",
+                "Via al. Niepodległości",
+                ""
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 503,
+        "question": "Find a driving route from Old Town to Letná Park that includes a car repair shop.",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Truck - Components s.r.o.",
+                "Brzdy Baumrukr S.r.o.",
+                "Pneuzone S.r.o.",
+                "Rameder Tažné zařízení"
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 504,
+        "question": "What is the most beautiful route from Buda Castle to Heroes' Square for a tourist?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Rákóczi út",
+                "Via Andrássy út",
+                "Via Margit körút",
+                ""
+            ],
+            "correct": -1
+        },
+        "classification": null
+    },
+    {
+        "id": 505,
+        "question": "What is the direction of the Great Pyramid of Giza from the Karnak Temple?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "North",
+                "East",
+                "South",
+                "West"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 506,
+        "question": "Which landmark is located directly north of Central Park in New York City?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "The Guggenheim Museum",
+                "Times Square",
+                "Columbia University",
+                "Rockefeller Center"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 507,
+        "question": "What is the straight-line distance between the Sydney Opera House and Bondi Beach?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5.86 km",
+                "6.86 km",
+                "7.86 km",
+                "8.86 km"
+            ],
+            "correct": 1
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 508,
+        "question": "Which of the following bank is within 500 meters of the Pantheon in Rome?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Banca Sella S.p.A - Piazza Poli, 38 / 41, 00187 Roma RM",
+                "Crédit Agricole Italia - Via Pietro Cavallini, 43, 00193 Roma RM",
+                "Deutsche Bank - Largo di Torre Argentina, 4, 00186 Roma RM",
+                "Imprebanca S.P.A. - Piazza Benedetto Cairoli, 119, 00186 Roma RM"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 509,
+        "question": "What is the nearest park to the Tower of London?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Tower Bridge Piazza - 362 Tower Hill",
+                "Wakefield Gardens - Tower Hill, London",
+                "Trinity Square Gardens - Tower Hill Station, 38 Trinity Square",
+                "Seething Lane Garden - Seething Lane"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 510,
+        "question": "How many restaurants are there within 500 meters of the Colosseum in Rome?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 511,
+        "question": "What is the fastest route from Times Square to Central Park by walking?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via 7th Ave",
+                "Via Broadway and 7th Ave",
+                "Via Broadway",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 512,
+        "question": "How long does it take to go from Times Square to Central Park on foot via Broadway and 7th Ave?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "15",
+                "10",
+                "17",
+                "18"
+            ],
+            "correct": 3
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 513,
+        "question": "What is the shortest route from Christ the Redeemer to Sugarloaf Mountain in Rio de Janeiro, Brazil by car?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Estr. das Paineiras",
+                "Via Estr. das Paineiras and R. Cosme Velho",
+                "Via Av. Infante Dom Henrique",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 514,
+        "question": "If I drive from Christ the Redeemer to Sugarloaf Mountain via Estr. das Paineiras, how much distance I need to travel?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "11565",
+                "12522",
+                "12300",
+                "16030"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 515,
+        "question": "I will drive from Christ the Redeemer to Sugarloaf Mountain. I want to travel the maximum distance. Which route should I follow?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Estr. das Paineiras",
+                "Via Estr. das Paineiras and R. Cosme Velho",
+                "Via Av. Infante Dom Henrique",
+                ""
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 516,
+        "question": "My partner and I have decided to spend the day in Paris. We want to start with a visit to the iconic Eiffel Tower and then make our way to the artistic neighborhood of Montmartre, taking a leisurely, scenic route. How can we take the longest path from the Eiffel Tower to Montmartre by car?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Rue Caulaincourt",
+                "Via Rue Caulaincourt and Rue Lamarck",
+                "Via Rue Saint-Dominique and Rue Caulaincourt",
+                ""
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 517,
+        "question": "What is the second nearest park to the Tower of London?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Seething Lane Garden - Seething Lane",
+                "Tower Bridge Piazza - 362 Tower Hill",
+                "Trinity Square Gardens - Tower Hill Station, 38 Trinity Square",
+                "Wakefield Gardens - Tower Hill, London"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 518,
+        "question": "Which coffee shop is situated between the Pantheon and the Trevi Fountain?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Gran Caffè La Caffettiera",
+                "Gran Caffè Rione VIII",
+                "Roscioli Caffè Pasticceria",
+                "Manfrè Borse e Caffè"
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 519,
+        "question": "Which coffee shop is situated between Café de Tacuba and Palacio de Bellas Artes?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Café del Centro, Donceles 96b, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico",
+                "Café Entre Palmas, Calle Palma Nte. 506-Local 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+                "Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+                "Café Xanah, Belisario Domínguez 49, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 520,
+        "question": "What is the direction of the Gateway of India from the Chhatrapati Shivaji Maharaj Terminus?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "North",
+                "East",
+                "South",
+                "West"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 521,
+        "question": "Which landmark is located directly south of the Union Buildings in Pretoria, South Africa?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Freedom Park",
+                "Pretoria Botanical Gardens",
+                "Church Square",
+                "National Zoological Gardens"
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 522,
+        "question": "What is the straight-line distance between the Obelisco and the Casa Rosada in Buenos Aires?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "0.76 km",
+                "2.15 km",
+                "1.19 km",
+                "1.14 km"
+            ],
+            "correct": 3
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 523,
+        "question": "What is the straight-line distance between the Christ the Redeemer statue in Rio de Janeiro and the Amazon Rainforest near Manaus, Brazil?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "2300 km",
+                "2786 km",
+                "2979 km",
+                "3203 km"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 524,
+        "question": "Which pair of places is closest to each other in Colombia?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá",
+                "Walls of Cartagena and San Felipe de Barajas Castle",
+                "Parque Arví and Medellín's Botanical Garden",
+                "Salento and Cocora Valley Trail"
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 525,
+        "question": "I’m planning a trip from Da Nang to Hội An. If I follow the fastest driving route. How much time will it take to go there?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1 hour 3 mins",
+                "1 hour 7 mins",
+                "1 hour 5 mins",
+                "59 mins"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 526,
+        "question": "I’m planning a trip from Da Nang to Hội An. If I follow the shortest driving route. How much time will it take to go there?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1 hour 5 mins",
+                "1 hour 6 mins",
+                "1 hour 7 mins",
+                "1 hour 8 mins"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 527,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the shortest driving route?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Nam Kỳ Khởi Nghĩa",
+                "Via Nam Kỳ Khởi Nghĩa and QL1A",
+                "Via CT02",
+                ""
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 528,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the longest driving route?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Nam Kỳ Khởi Nghĩa",
+                "Via Nam Kỳ Khởi Nghĩa and QL1A",
+                "Via CT02",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 529,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the longest distance I can cover if I drive?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "43520",
+                "43622",
+                "44601",
+                "43790"
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 530,
+        "question": "What is the nearest museum to Gyeongbokgung Palace in Seoul, South Korea?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "National Museum of Korea",
+                "National Palace Museum of Korea",
+                "War Memorial of Korea",
+                "Bukchon Traditional Culture Center"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 531,
+        "question": "Which museum is inside 500 m radius of Gyeongbokgung Palace in Seoul?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "National Museum of Korea",
+                "War Memorial of Korea",
+                "Bukchon Traditional Culture Center",
+                "National Palace Museum of Korea"
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 532,
+        "question": "How many museums are there inside 500 m radius of Gyeongbokgung Palace in Seoul?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 533,
+        "question": "What is the nearest park to Marina Bay Sands in Singapore?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Gardens by the Bay - 18 Marina Gardens Drive",
+                "Merlion Park - 1 Fullerton Road",
+                "Marina Bay Sands Garden Park",
+                "Esplanade Park - Along Connaught Drive"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 534,
+        "question": "How many parks are there inside 500 m radius of Marina Bay Sands Singapore?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 535,
+        "question": "What is the 2nd nearest park to Marina Bay Sands in Singapore?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Fullerton Promenade - 1 Fullerton Rd",
+                "Silver Gardens - 18 Marina Gardens Dr",
+                "Merlion - Singapore",
+                "Gardens by the Bay - 18 Marina Gardens Dr"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 536,
+        "question": "What is the straight-line distance between the Matterhorn in Zermatt and Lake Geneva in Switzerland?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "139 km",
+                "125 km",
+                "80 km",
+                "101 km"
+            ],
+            "correct": 3
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 537,
+        "question": "What is the straight-line distance between the Eiffel Tower in Paris, France, and the Mont Saint-Michel in Normandy, France?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "230 km",
+                "250 km",
+                "280 km",
+                "310 km"
+            ],
+            "correct": 2
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 538,
+        "question": "What is the straight-line distance between the Belém Tower in Lisbon and the University of Coimbra in Coimbra, Portugal?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "180 km",
+                "150 km",
+                "205 km",
+                "235 km"
+            ],
+            "correct": 0
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 539,
+        "question": "What is the straight-line distance between Marina Bay Sands and Sentosa Island in Singapore?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5.32 km",
+                "3.99 km",
+                "4.59 km",
+                "4.99 km"
+            ],
+            "correct": 3
+        },
+        "classification": "poi"
+    },
+    {
+        "id": 540,
+        "question": "How many shopping malls are there within a 500 m radius of Berlin Cathedral?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 541,
+        "question": "How many parks are there within a 500 m radius of the CN Tower in Toronto, Canada?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "10",
+                "12",
+                "13",
+                "15"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 542,
+        "question": "How many restaurants are there within a 500 m radius of the Sydney Harbour Bridge in Sydney?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 543,
+        "question": "How many cafés are there within a 600 m radius of the Sacré-Cœur Basilica in Paris, France?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "13",
+                "14",
+                "15",
+                "16"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 544,
+        "question": "How many convenience stores are there within a 400 m radius of the Tokyo Tower?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 545,
+        "question": "What is the second nearest temple to the Taj Mahal in Agra, India?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Prachin Shree Laxminarayan ji",
+                "Hanuman Mandir",
+                "Shree Shanidev Mandir",
+                "Dande wala baba ka mandir "
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 546,
+        "question": "What is the nearest library to the Frida Kahlo Museum in Mexico City, Mexico?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Apoyo al Desarrollo de Archivos y Bibliotecas de Mexico",
+                "Library Ignacio Ramirez",
+                "Biblioteca Francisco Zarco",
+                "Biblioteca Eusebio F. Kino del Instituto Libre de Filosofía y Ciencia, A. C."
+            ],
+            "correct": 3
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 547,
+        "question": "What is the second nearest grocery store to the Colosseum in Rome, Italy?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Urbana 47",
+                "RoYaL Art Cafè ",
+                "Hostaria Al Gladiatore",
+                "La Cicala E La Formica"
+            ],
+            "correct": 2
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 548,
+        "question": "What is the second nearest bookstore to the Sydney Opera House?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "The Invisible Tree Publications ",
+                "Sydney Opera House Gift Shop ",
+                "The Library Shop ",
+                "The Library Shop "
+            ],
+            "correct": 0
+        },
+        "classification": "nearby"
+    },
+    {
+        "id": 549,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the fastest route to take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Av. Ing. Huergo",
+                "Via Av. Ing. Huergo and Av. Almte. Brown",
+                "Via Av. Paseo Colón and Av. Almte. Brown",
+                ""
+            ],
+            "correct": 1
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 550,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the shortest route to take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Av. Ing. Huergo",
+                "Via Av. Ing. Huergo and Av. Almte. Brown",
+                "Via Av. Paseo Colón and Av. Almte. Brown",
+                ""
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 551,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the longest route to take?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "Via Av. Ing. Huergo",
+                "Via Av. Ing. Huergo and Av. Almte. Brown",
+                "Via Av. Paseo Colón and Av. Almte. Brown",
+                ""
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 552,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the longest distance I can travel?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "6336 m",
+                "6123 m",
+                "6523 m",
+                "6189 m"
+            ],
+            "correct": 0
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 553,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the fastest time to reach there?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "16 mins",
+                "17 mins",
+                "18 mins",
+                "19 mins"
+            ],
+            "correct": 2
+        },
+        "classification": "routing"
+    },
+    {
+        "id": 554,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. How much distance I need to cover if I go Via Av. Ing. Huergo and Av. Almte. Brown?",
+        "answer": {
+            "type": "mcq",
+            "options": [
+                "5213 m",
+                "6123 m",
+                "6336 m",
+                "6666 m"
+            ],
+            "correct": 1
+        },
+        "classification": "nearby"
+    }
+]
